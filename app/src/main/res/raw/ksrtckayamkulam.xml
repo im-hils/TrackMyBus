@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--INTERSTATE RIDERS-->
+	<!--06.10 KAYAMKULAM TENKASI-->
+	<statement>
+        INSERT INTO bus VALUES(877,'Kayamkulam-Thenkasi (via) Adoor,Punalur','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,877,41,"06:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,877,32,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,877,26,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,877,27,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,877,166,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,877,28,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,877,167,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,877,168,"10:00")
+    </statement>
+	//RETRN
+	<statement>
+        INSERT INTO bus VALUES(879,'Thenkasi-Kayamkulam (via) Punalur,Adoor','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,879,41,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,879,32,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,879,26,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,879,27,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,879,166,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,879,28,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,879,167,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,879,168,"10:20")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(878,'Kayamkulam-Thenkasi (via) Adoor,Punalur','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,878,41,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,878,32,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,878,26,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,878,27,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,878,166,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,878,28,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,878,167,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,878,168,"18:15")
+    </statement>
+	//RETRN
+	<statement>
+        INSERT INTO bus VALUES(880,'Thenkasi-Kayamkulam (via) Punalur,Adoor','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,880,41,"22:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,880,32,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,880,26,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,880,27,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,880,166,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,880,28,"19:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,880,167,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,880,168,"18:40")
+    </statement>
+	
+	
+	
+	
+<!--SUPERCLASS SERVICES-->
+	<!--06.15 KYMKLM GVR-->
+	<statement>
+        INSERT INTO bus VALUES(4017,'Kayamkulam-Guruvayur (via) Ernakulam,Thrissur','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,4017,41,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,4017,68,"12:45")
+    </statement>
+	//RETRN
+	<statement>
+        INSERT INTO bus VALUES(4018,'Guruvayur-Kayamkulam (via) Ernakulam,Alappuzha','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4018,68,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4018,41,"20:10")
+    </statement>
+	
+
+	<!--06.40 KYMKLM TVM TSR KYMKLM-->
+	<statement>
+        INSERT INTO bus VALUES(4012,'Kayamkulam-Trivandrum','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,4012,41,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,4012,1,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(4013,'Trivandrum-Thrissur','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4013,1,"10.00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4013,66,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(4014,'Thrissur-Kayamkulam','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4014,66,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4014,41,"")
+    </statement>
+	
+	
+	<!--07.00 KYMKLM PLKD-->
+	<statement>
+        INSERT INTO bus VALUES(4015,'Kayamkulam-Palakkadu (via) Ernakulam,Thrissur','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4015,41,"07.00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,4015,38,"08.10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,4015,100,"09.30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4015,66,"11.40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,4015,73,"13.40")
+    </statement>
+	//RETRN
+	<statement>
+        INSERT INTO bus VALUES(4016,'Palakkadu-Kayamkulam (via) Ernakulam,Alappuzha','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4016,73,"14.40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,4016,66,"16.15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,4016,100,"18.15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,4016,38,"20.10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,4016,41,"21.15")
+    </statement>
+	
+	
+	
+	
+
+
+	<!--08.30 KYMKLM KMLY-->
+	
+	
+	
+	
+	//RETRN
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    
+
+<!--KURTC-->
+	<!--07.00 KAYAMKULAM ALAPPY KAYAMKULAM-->
+	<statement>
+        INSERT INTO bus VALUES(1880,'Kayamkulam-Alappuzha (via) Harippadu,Ambalappuzha','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1880,41,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1880,38,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1881,'Alappuzha-Kaymakulam (via) Ambalappuzha,Harippadu','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1881,41,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1881,38,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1882,'Kayamkulam-Alappuzha (via) Harippadu,Ambalappuzha','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1882,41,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1882,38,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1883,'Alappuzha-Kaymakulam (via) Ambalappuzha,Harippadu','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1883,41,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1883,38,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1884,'Kayamkulam-Alappuzha (via) Harippadu,Ambalappuzha','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1884,41,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1884,38,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1885,'Alappuzha-Kaymakulam (via) Ambalappuzha,Harippadu','Non AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1885,41,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1885,38,"18:50")
+    </statement>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+ </sql>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS RIDERS-->
+	<!--05.00 PNI TIRUR TVM PONNANI-->
+	<statement>
+        INSERT INTO bus VALUES(2077,'Tirur-Trivandrum (via) Guruvayur,Vyttila,Kollam','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2077,211,"05:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(30,2077,1,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(2078,'Trivandrum-Ponnani (via) Alappuzha,Vyttila,Guruvayur','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2078,1,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(30,2078,80,"")
+    </statement>
+	
+
+	<!--05.45 PNI PARUMALA CHURCH-->
+	<statement>
+        INSERT INTO bus VALUES(2010,'Ponnani-Parumala Church (via) Thrissur,Kottayam','LS Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2010,80,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,2010,66,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,2010,45,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,2010,467,"12:45")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(2011,'Parumala-Ponnani (via) Muvattupuzha,Thrissur','LS Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,2011,80,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,2011,66,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,2011,45,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2011,467,"14:15")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<!--INTERSTATE RIDERS-->
+	<!--06.00 PNI CBE PLK CBE PNI-->
+	<statement>
+        INSERT INTO bus VALUES(740,'Ponnani-Coimbatore (via) Cherpulasserry,Palakkad','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,740,80,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,740,114,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,740,213,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,740,279,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,740,73,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,740,266,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,740,200,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(7091,'Coimbatore-Palakkadu (via) Walayar','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7091,200,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7091,73,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(7092,'Palakkadu-Coimbatore (via) Walayar','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7092,73,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7092,200,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(743,'Coimbatore-Ponnani (via) Cherpulasserry,Pattambi','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,743,200,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,743,80,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,743,114,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,743,213,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,743,279,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,743,73,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,743,266,"15:50")
+    </statement>
+	
+	
+	<!--07.00 PNI CBE PLK CBE PONNANI-->
+	<statement>
+        INSERT INTO bus VALUES(741,'Ponnani-Coimbatore (via) Ottappalam,Palakkad','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,741,80,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,741,114,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,741,213,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,741,268,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,741,73,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,741,266,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,741,200,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(7093,'Coimbatore-Palakkadu (via) Walayar','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7093,200,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7093,73,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(7094,'Palakkadu-Coimbatore (via) Walayar','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7094,73,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7094,200,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(742,'Coimbatore-Ponnani (via) Ottappalam,Pattambi','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,742,200,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,742,80,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,742,114,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,742,213,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,742,268,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,742,73,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,742,266,"16:20")
+    </statement>
+	
+	
+	<!--18.30 PNI BGLR DLX-->
+	<statement>
+        INSERT INTO bus VALUES(3049,'Ponnani-Bangalore (via) Kozhikkodu,Mananthavady,Mysore','Super Deluxe')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,3049,80,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,3049,211,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,3049,81,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,3049,87,"22:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,3049,88,"23:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,3049,95,"02:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,3049,94,"")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(3048,'Bangalore-Ponnani (via) Mananthavady,Kozhikkodu','Super Deluxe')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,3048,420,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,3048,94,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,3048,80,"")
+    </statement>
+	
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+ </sql>

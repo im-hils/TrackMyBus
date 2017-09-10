@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+	<!--INTERSTATE RIDERS-->
+	<statement>
+        INSERT INTO bus VALUES(748,'Coimbatore (via) Attappady,Anakkatty','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,748,82,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,748,280,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,748,281,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,748,282,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,748,271,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,748,75,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,748,276,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,748,277,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,748,278,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,748,200,"11:50")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(749,'Thamarasserry (via) Anakkatty,Attappady,Manjeri','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,749,82,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,749,280,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,749,281,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,749,282,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,749,271,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,749,75,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,749,276,"16:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,749,277,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,749,278,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,749,200,"14:30")
+    </statement>
+
+	
+        
+
+
+
+ </sql>

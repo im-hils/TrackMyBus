@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS SERVICES-->
+	<!--06.00 ALUVA PTA TSR ALUVA-->
+	<statement>
+        INSERT INTO bus VALUES(4027,'Aluva-Pathanamthitta (via) Muvattupuzha,Kottayam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4027,58,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4027,30,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(4028,'Pathanamthitta-Thrissur (via) Alappuzha,Ernakulam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,4028,30,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,4028,190,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,4028,31,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,4028,46,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,4028,38,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,4028,40,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,4028,57,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,4028,66,"")
+    </statement>
+	
+	
+	<!--14.30 ALUVA ARUVIPPURAM FP-->
+	<statement>
+        INSERT INTO bus VALUES(2277,'Aluva-Aruvippuram (via) Alappuzha,Kollam,Trivandrum','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2277,58,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,2277,57,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,2277,38,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,2277,41,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,2277,21,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(25,2277,1,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(28,2277,5,"21:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(30,2277,538,"22:00")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(2278,'Aruvippuram-Aluva (via) Kollam,Alappuzha,Ernakulam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2278,538,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,2278,5,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,2278,1,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(25,2278,58,"")
+    </statement>
+	
+
+//ALUVA DIPOT
+	<statement>
+        INSERT INTO bus VALUES(1327,'Aluva (via) Kottayam,Muvattupuzha','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1327,1,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,1327,16,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,1327,10,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,1327,23,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1327,128,"07:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1327,22,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1327,32,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1327,35,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1327,39,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1327,31,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,1327,46,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,1327,45,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,1327,159,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,1327,65,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,1327,59,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(16,1327,60,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(17,1327,58,"13:15")
+    </statement>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--LS/TT RIDERS-->
+	<!--07.40 ALV KANTHALLOOR-->
+	<statement>
+        INSERT INTO bus VALUES(973,'Aluva-Kanthalloor (via) Kothamangalam,Munnar','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,973,58,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,973,60,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,973,62,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,973,251,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,973,214,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,973,56,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,973,252,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,973,253,"14:30")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(974,'Kanthalloor-Aluva (via) Adimaly,Kothamangalam','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,974,58,"21:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,974,60,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,974,62,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,974,251,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,974,214,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,974,56,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,974,252,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,974,253,"15:10")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<!--ORDINARY RIDERS-->
+	<!--MVPA ALVA-->
+	<statement>
+        INSERT INTO bus VALUES(2020,'Muvattupuzha-Aluva (via) Kolencherry,Info Park','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2020,59,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,2020,153,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,2020,154,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,2020,137,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,2020,136,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,2020,222,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,2020,58,"10:20")
+    </statement>
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<!--INTERSTATE RIDERS-->
+	<!--05.45 ALUVA POLLACHI ALAPPUZHA ALUVA RPC287-->
+	<statement>
+        INSERT INTO bus VALUES(1775,'Aluva-Pollachi (via) Thrissur,Nenmara','LS Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1775,58,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,1775,61,"06:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,1775,67,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,1775,72,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1775,66,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1775,76,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1775,257,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1775,258,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1775,463,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1775,230,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1776,'Pollachi-Ernakulam (via) Nenmara,Thrissur','LS Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1776,57,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1776,58,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1776,61,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1776,67,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1776,72,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1776,66,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,1776,76,"12:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,1776,257,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,1776,258,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1776,463,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,1776,230,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1777,'Ernakulam-Thrissur (via) Chalakkudy','LS Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1747,'Thrissur-Aluva (via) Angamaly','LS Fast Passenger')
+    </statement>	
+	
+
+
+
+
+ </sql>

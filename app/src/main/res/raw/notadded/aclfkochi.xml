@@ -1,0 +1,4515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--Muvattupuzha-Ernakulam AC LowFloor-->
+//1
+	<statement>
+        INSERT INTO bus VALUES(8257,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8257,59,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8257,153,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8257,154,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8257,101,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8257,100,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8257,57,"09:15")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8258,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8258,59,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8258,153,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8258,154,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8258,101,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8258,100,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8258,57,"09:45")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8259,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8259,59,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8259,153,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8259,154,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8259,101,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8259,100,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8259,57,"10:10")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8260,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8260,59,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8260,153,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8260,154,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8260,101,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8260,100,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8260,57,"11:35")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8261,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8261,59,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8261,153,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8261,154,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8261,101,"13:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8261,100,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8261,57,"13:25")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8262,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8262,59,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8262,153,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8262,154,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8262,101,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8262,100,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8262,57,"14:20")
+    </statement>
+	//7
+	<statement>
+        INSERT INTO bus VALUES(8263,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8263,59,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8263,153,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8263,154,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8263,101,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8263,100,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8263,57,"16:55")
+    </statement>
+	//8
+	<statement>
+        INSERT INTO bus VALUES(8264,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8264,59,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8264,153,"17:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8264,154,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8264,101,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8264,100,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8264,57,"18:50")
+    </statement>
+	//9
+	<statement>
+        INSERT INTO bus VALUES(8265,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8265,59,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8265,153,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8265,154,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8265,101,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8265,100,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8265,57,"20:30")
+    </statement>
+	//10
+	<statement>
+        INSERT INTO bus VALUES(8266,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8266,59,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8266,153,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8266,154,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8266,101,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8266,100,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8266,57,"21:00")
+    </statement>
+	//11
+	<statement>
+        INSERT INTO bus VALUES(8267,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8267,59,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8267,153,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8267,154,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8267,101,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8267,100,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8267,57,"21:25")
+    </statement>
+	//12
+	<statement>
+        INSERT INTO bus VALUES(8268,'Ernakulam (via) Puthenkurish,Kolencherry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8268,59,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8268,153,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8268,154,"21:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8268,101,"22:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8268,100,"22:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8268,57,"22:40")
+    </statement>
+	//Retrn 12
+	<statement>
+        INSERT INTO bus VALUES(8030,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8030,57,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8030,100,"05:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8030,101,"05:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8030,154,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8030,153,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8030,59,"07:10")
+    </statement>
+	//11
+	<statement>
+        INSERT INTO bus VALUES(8227,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8227,57,"06:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8227,100,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8227,101,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8227,154,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8227,153,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8227,59,"07:50")
+    </statement>
+	//10
+	<statement>
+        INSERT INTO bus VALUES(8228,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8228,57,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8228,100,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8228,101,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8228,154,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8228,153,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8228,59,"08:15")
+    </statement>
+	//9
+	<statement>
+        INSERT INTO bus VALUES(8236,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8236,57,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8236,100,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8236,101,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8236,154,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8236,153,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8236,59,"09:35")
+    </statement>
+	//8
+	<statement>
+        INSERT INTO bus VALUES(8238,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8238,57,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8238,100,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8238,101,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8238,154,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8238,153,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8238,59,"11:25")
+    </statement>
+	//7
+	<statement>
+        INSERT INTO bus VALUES(8241,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8241,57,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8241,100,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8241,101,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8241,154,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8241,153,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8241,59,"12:20")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8244,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8244,57,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8244,100,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8244,101,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8244,154,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8244,153,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8244,59,"14:55")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8247,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8247,57,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8247,100,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8247,101,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8247,154,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8247,153,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8247,59,"15:45")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8249,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8249,57,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8249,100,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8249,101,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8249,154,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8249,153,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8249,59,"17:35")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8251,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8251,57,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8251,100,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8251,101,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8251,154,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8251,153,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8251,59,"19:05")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8252,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8252,57,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8252,100,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8252,101,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8252,154,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8252,153,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8252,59,"19:30")
+    </statement>
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8253,'Muvattupuzha (via) Kolencherry,Puthenkurish','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8253,57,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8253,100,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8253,101,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8253,154,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8253,153,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8253,59,"20:45")
+    </statement>
+	
+	
+	<!--KOLENCHERRY ERNAKULAM LowFloor-->
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8274,'Ernakulam (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8274,153,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8274,154,"11:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8274,101,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8274,100,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8274,57,"12:45")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8275,'Ernakulam (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8275,153,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8275,154,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8275,101,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8275,100,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8275,57,"14:35")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8276,'Ernakulam (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8276,153,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8276,154,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8276,101,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8276,100,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8276,57,"16:25")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8277,'Ernakulam (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8277,153,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8277,154,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8277,101,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8277,100,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8277,57,"17:20")
+    </statement>
+	//Retrn 4
+	<statement>
+        INSERT INTO bus VALUES(8240,'Kolencherry (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8240,57,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8240,100,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8240,101,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8240,154,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8240,153,"11:05")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8243,'Kolencherry (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8243,57,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8243,100,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8243,101,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8243,154,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8243,153,"13:00")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8245,'Kolencherry (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8245,57,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8245,100,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8245,101,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8245,154,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8245,153,"15:00")
+    </statement>
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8246,'Kolencherry (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8246,57,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8246,100,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8246,101,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8246,154,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8246,153,"15:55")
+    </statement>
+	
+	
+	
+	<!--KOTHAMANGALAM ERNAKULAM/JETTY LowFloor-->
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8082,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8082,57,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8082,219,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8082,224,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8082,222,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8082,58,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8082,60,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8082,62,"07:40")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8089,'Ernakulam Jetty (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8089,147,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8089,219,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8089,224,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8089,222,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8089,58,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8089,60,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8089,62,"08:10")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8233,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8233,57,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8233,219,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8233,224,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8233,222,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8233,58,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8233,60,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8233,62,"09:25")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8234,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8234,57,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8234,219,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8234,224,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8234,222,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8234,58,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8234,60,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8234,62,"12:45")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8034,'Ernakulam Jetty (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8034,147,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8034,219,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8034,224,"15:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8034,222,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8034,58,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8034,60,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8034,62,"13:40")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8216,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8216,57,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8216,219,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8216,224,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8216,222,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8216,58,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8216,60,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8216,62,"14:35")
+    </statement>
+	//7
+	<statement>
+        INSERT INTO bus VALUES(8217,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8217,57,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8217,219,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8217,224,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8217,222,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8217,58,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8217,60,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8217,62,"17:55")
+    </statement>
+	//8
+	<statement>
+        INSERT INTO bus VALUES(8198,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8198,57,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8198,219,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8198,224,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8198,222,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8198,58,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8198,60,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8198,62,"18:35")
+    </statement>
+	//9
+	<statement>
+        INSERT INTO bus VALUES(8221,'Ernakulam (via) Perumbavur,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8221,57,"21:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8221,219,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8221,224,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8221,222,"21:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8221,58,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8221,60,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8221,62,"19:45")
+    </statement>
+	
+	//Retrn1.
+	<statement>
+        INSERT INTO bus VALUES(8210,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8210,57,"05:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8210,219,"05:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8210,224,"05:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8210,222,"05:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8210,58,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8210,60,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8210,62,"07:20")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8033,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8033,57,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8033,219,"05:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8033,224,"06:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8033,222,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8033,58,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8033,60,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8033,62,"07:50")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8108,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8108,57,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8108,219,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8108,224,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8108,222,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8108,58,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8108,60,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8108,62,"09:05")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8239,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8239,57,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8239,219,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8239,224,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8239,222,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8239,58,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8239,60,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8239,62,"12:15")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8219,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8219,147,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8219,219,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8219,224,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8219,222,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8219,58,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8219,60,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8219,62,"13:05")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8242,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8242,57,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8242,219,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8242,224,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8242,222,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8242,58,"13:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8242,60,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8242,62,"14:05")
+    </statement>
+	//7
+	<statement>
+        INSERT INTO bus VALUES(8248,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8248,57,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8248,219,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8248,224,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8248,222,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8248,58,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8248,60,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8248,62,"17:25")
+    </statement>
+	//8
+	<statement>
+        INSERT INTO bus VALUES(8223,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8223,147,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8223,219,"16:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8223,224,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8223,222,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8223,58,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8223,60,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8223,62,"18:25")
+    </statement>
+	//9
+	<statement>
+        INSERT INTO bus VALUES(8250,'Kothamangalam (via) Kalamasserry,Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8250,57,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8250,219,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8250,224,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8250,222,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8250,58,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8250,60,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8250,62,"19:25")
+    </statement>
+	
+	
+	<!--KUTHATTUKULAM ERNAKULAM LowFloor-->
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8269,'Ernakulam (via) Piravom,Chottanikara','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8269,65,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8269,64,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8269,223,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8269,101,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8269,100,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8269,57,"09:45")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8270,'Ernakulam (via) Piravom,Chottanikara','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8270,65,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8270,64,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8270,223,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8270,101,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8270,100,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8270,57,"15:15")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8271,'Ernakulam (via) Piravom,Chottanikara','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8271,65,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8271,64,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8271,223,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8271,101,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8271,100,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8271,57,"20:30")
+    </statement>
+	//Retrn1.
+	<statement>
+        INSERT INTO bus VALUES(8254,'Kuthattukulam (via) Chottanikara,Piravom','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8254,57,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8254,100,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8254,101,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8254,223,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8254,64,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8254,65,"07:40")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8255,'Kuthattukulam (via) Chottanikara,Piravom','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8255,57,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8255,100,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8255,101,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8255,223,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8255,64,"12:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8255,65,"12:55")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8256,'Kuthattukulam (via) Chottanikara,Piravom','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8256,57,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8256,100,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8256,101,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8256,223,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8256,64,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8256,65,"18:30")
+    </statement>
+	
+	
+	
+	<!--NORTH PARAVUR Perumbavur LowFloor-->
+	//1
+	<statement>
+        INSERT INTO bus VALUES(8184,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8184,63,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8184,58,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8184,60,"10:05")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8193,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8193,63,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8193,58,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8193,60,"12:05")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8186,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8186,63,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8186,58,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8186,60,"13:25")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8195,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8195,63,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8195,58,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8195,60,"15:35")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8188,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8188,63,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8188,58,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8188,60,"16:50")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8197,'Perumbavur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8197,63,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8197,58,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8197,60,"19:00")
+    </statement>
+	//Retrn1.
+	<statement>
+        INSERT INTO bus VALUES(8192,'North Paravur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8192,63,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8192,58,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8192,60,"09:05")
+    </statement>
+	//2
+	<statement>
+        INSERT INTO bus VALUES(8185,'North Paravur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8185,63,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8185,58,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8185,60,"10:25")
+    </statement>
+	//3
+	<statement>
+        INSERT INTO bus VALUES(8194,'North Paravur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8194,63,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8194,58,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8194,60,"12:35")
+    </statement>
+	//4
+	<statement>
+        INSERT INTO bus VALUES(8187,'North Paravur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8187,63,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8187,58,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8187,60,"13:55")
+    </statement>
+	//5
+	<statement>
+        INSERT INTO bus VALUES(8196,'North Paravur (via) Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8196,63,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8196,58,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8196,60,"16:05")
+    </statement>
+	//6
+	<statement>
+        INSERT INTO bus VALUES(8189,'North Paravur (via) Aluva,','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8189,63,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8189,58,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8189,60,"17:05")
+    </statement>
+	
+	
+
+	
+
+
+
+
+
+<!--From FORT KOCHI-->
+
+	
+	//Aluva or Infopark
+	<statement>
+        INSERT INTO bus VALUES(8037,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8037,58,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8037,224,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8037,219,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8037,139,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8037,143,"07:40")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8054,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8054,143,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8054,139,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8054,219,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8054,224,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8054,58,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8027,'Fort Kochi-Angamaly (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8027,143,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8027,139,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8027,219,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8027,224,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8027,58,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8027,61,"11:20")
+    </statement>
+	
+	
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8039,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8039,58,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8039,224,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8039,219,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8039,139,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8039,143,"11:10")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8056,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8056,58,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8056,224,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8056,219,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8056,139,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8056,143,"12:30")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8156,'Fort Kochi-Angamaly (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8156,143,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8156,139,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8156,219,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8156,224,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8156,58,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8156,61,"16:20")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8041,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8041,58,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8041,224,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8041,219,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8041,139,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8041,143,"14:40")
+    </statement>
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8058,'Fort Kochi-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8058,143,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8058,139,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8058,219,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8058,224,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8058,58,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8007,'Fort Kochi-Airport (via) Menaka,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8007,143,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8007,139,"17:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8007,219,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8007,224,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8007,58,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8007,142,"19:15")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(8028,'Fort Kochi-InfoPark (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8028,137,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8028,136,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8028,219,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8028,139,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8028,143,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8182,'Fort Kochi-Ernakulam (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8182,143,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8182,139,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8182,57,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8148,'Fort Kochi-Airport (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8148,142,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8148,58,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8148,100,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8148,139,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8148,143,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8016,'Fort Kochi-Ernakulam (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8016,143,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8016,139,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8016,57,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8043,'Fort Kochi-Aluva (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8043,143,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8043,139,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8043,100,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8043,224,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8043,58,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8051,'Fort Kochi-Ernakulam (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8051,57,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8051,139,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8051,143,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8044,'Fort Kochi-Aluva (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8044,143,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8044,139,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8044,100,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8044,224,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8044,58,"21:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8060,'Fort Kochi-Ernakulam (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8060,57,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8060,139,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8060,143,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8045,'Fort Kochi-Ernakulam (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8045,57,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8045,139,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8045,143,"21:00")
+    </statement>
+	
+	<!--From Aroor-->
+	<statement>
+        INSERT INTO bus VALUES(8119,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8119,61,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8119,58,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8119,224,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8119,100,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8119,221,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8128,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8128,61,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8128,58,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8128,224,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8128,100,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8128,221,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8173,'Aroor-Ankamaly (via) Thoppumpady,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8173,221,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8173,139,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8173,224,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8173,58,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8173,61,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8101,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8101,61,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8101,58,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8101,224,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8101,100,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8101,221,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8107,'Aroor-Ankamaly (via) Thoppumpady,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8107,221,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8107,139,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8107,224,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8107,58,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8107,61,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8111,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8111,61,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8111,58,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8111,224,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8111,100,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8111,221,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8138,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8138,61,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8138,58,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8138,224,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8138,100,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8138,221,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8121,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8121,61,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8121,58,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8121,224,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8121,100,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8121,221,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8130,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8130,61,"13:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8130,58,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8130,224,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8130,100,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8130,221,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8150,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8150,61,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8150,58,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8150,222,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8150,100,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8150,221,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8175,'Aroor-Ankamaly (via) Thoppumpady,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8175,221,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8175,139,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8175,224,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8175,58,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8175,61,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8113,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8113,61,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8113,58,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8113,224,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8113,100,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8113,221,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8046,'Aroor-Ankamaly (via) Thoppumpady,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8046,221,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8046,139,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8046,224,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8046,58,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8046,61,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8140,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8140,61,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8140,58,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8140,224,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8140,100,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8140,221,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8123,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8123,61,"16:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8123,58,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8123,224,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8123,100,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8123,221,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8132,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8132,61,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8132,58,"16:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8132,224,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8132,100,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8132,221,"15:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8152,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8152,61,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8152,58,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8152,222,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8152,100,"16:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8152,221,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8115,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8115,61,"18:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8115,58,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8115,224,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8115,100,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8115,221,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8177,'Aroor-Ankamaly (via) Thoppumpady,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8177,221,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8177,139,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8177,224,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8177,58,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8177,61,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8142,'Aroor-Ankamaly (via) Thoppumpady,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8142,221,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8142,139,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8142,224,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8142,58,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8142,61,"20:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8125,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8125,61,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8125,58,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8125,224,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8125,100,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8125,221,"18:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8134,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8134,61,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8134,58,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8134,224,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8134,100,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8134,221,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8154,'Aroor-Ankamali (via) Vyttila,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8154,61,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8154,58,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8154,222,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8154,100,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8154,221,"19:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8117,'Aroor-Ernakulam (via) Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8117,221,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8117,100,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8117,57,"21:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8144,'Aroor-Ernakulam (via) Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8144,221,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8144,100,"22:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8144,57,"22:10")
+    </statement>
+	
+	<!--From AIRPORT-->
+	
+	<statement>
+        INSERT INTO bus VALUES(8019,'Airport-Ernakulam (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8019,142,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8019,58,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8019,224,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8019,100,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8019,57,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8020,'Airport-Ernakulam (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8020,142,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8020,58,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8020,224,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8020,100,"21:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8020,57,"22:00")
+    </statement>
+	
+
+	<!--From ANGAMALY-->
+	<statement>
+        INSERT INTO bus VALUES(8214,'Ankamali-Fort Kochi (via) Padma,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8214,61,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8214,58,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8214,224,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8214,219,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8214,139,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8214,143,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8110,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8110,61,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8110,58,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8110,224,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8110,100,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8110,221,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8137,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8137,61,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8137,58,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8137,224,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8137,100,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8137,221,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8120,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8120,61,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8120,58,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8120,224,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8120,100,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8120,221,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8129,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8129,61,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8129,58,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8129,224,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8129,100,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8129,221,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8149,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8149,61,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8149,58,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8149,222,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8149,100,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8149,221,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8174,'Ankamaly-Aroor (via) Padma,Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8174,221,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8174,139,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8174,224,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8174,58,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8174,61,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8231,'Ankamaly-Aroor (via) Padma,Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8231,221,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8231,139,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8231,224,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8231,58,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8231,61,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8112,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8112,61,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8112,58,"11:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8112,224,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8112,100,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8112,221,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8215,'Ankamali-Fort Kochi (via) Padma,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8215,61,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8215,58,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8215,224,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8215,219,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8215,139,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8215,143,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8139,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8139,61,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8139,58,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8139,224,"13:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8139,100,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8139,221,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8122,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8122,61,"13:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8122,58,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8122,224,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8122,100,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8122,221,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8131,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8131,61,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8131,58,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8131,224,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8131,100,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8131,221,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8151,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8151,61,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8151,58,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8151,222,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8151,100,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8151,221,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8114,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8114,61,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8114,58,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8114,224,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8114,100,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8114,221,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8176,'Ankamaly-Aroor (via) Padma,Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8176,221,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8176,139,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8176,224,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8176,58,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8176,61,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8141,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8141,61,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8141,58,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8141,224,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8141,100,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8141,221,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8124,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8124,61,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8124,58,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8124,224,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8124,100,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8124,221,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8218,'Ankamali-Fort Kochi (via) Padma,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8218,61,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8218,58,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8218,224,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8218,219,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8218,139,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8218,143,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8133,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8133,61,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8133,58,"17:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8133,224,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8133,100,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8133,221,"18:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8153,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8153,61,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8153,58,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8153,222,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8153,100,"18:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8153,221,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8116,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8116,61,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8116,58,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8116,224,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8116,100,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8116,221,"20:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8143,'Ankamali-Aroor (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8143,61,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8143,58,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8143,224,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8143,100,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8143,221,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8126,'Ankamali-Ernakulam (via) Aluva Bypass,Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8126,61,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8126,58,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8126,224,"21:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8126,100,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8126,57,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8178,'Ankamaly-Ernakulam (via) Aluva Bypass,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8178,61,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8178,58,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8178,224,"21:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8178,219,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8178,57,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8135,'Ankamali-Ernakulam (via) Aluva Bypass,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8135,61,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8135,58,"21:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8135,224,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8135,219,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8135,57,"21:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8232,'Ankamali-Ernakulam (via) Aluva Bypass,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8232,61,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8232,58,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8232,224,"21:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8232,219,"22:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8232,57,"22:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8155,'Angamaly-Ernakulam (via) Aluva Bypass,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8155,57,"22:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8155,219,"22:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8155,222,"21:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8155,58,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8155,61,"21:15")
+    </statement>
+	
+	
+	
+	<!--From MATTANCHERRY-->
+	<statement>
+        INSERT INTO bus VALUES(8201,'Mattancherry-Perumbavur (via) Thoppumpady,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8201,60,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8201,58,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8201,224,"13:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8201,219,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8201,139,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8201,144,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8203,'Mattancherry-Perumbavur (via) Thoppumpady,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8203,60,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8203,58,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8203,224,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8203,219,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8203,139,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8203,144,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8205,'Mattancherry-Ernakulam (via) Thoppumpady,MG Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8205,144,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8205,139,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8205,57,"21:35")
+    </statement>
+	
+	
+	<!--From POOTHOTTA-->
+	<statement>
+        INSERT INTO bus VALUES(8078,'Poothotta-Aluva (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8078,218,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8078,101,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8078,219,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8078,224,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8078,58,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8087,'Poothotta-Aluva (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8087,218,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8087,101,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8087,219,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8087,224,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8087,58,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8080,'Poothotta-Aluva (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8080,218,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8080,101,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8080,219,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8080,224,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8080,58,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8091,'Poothotta-Aluva (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8091,218,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8091,101,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8091,219,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8091,224,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8091,58,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8084,'Poothotta-Ernakulam (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8084,218,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8084,101,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8084,100,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8084,57,"20:00")
+    </statement>
+	
+	
+	
+	
+	
+	<!--From ERNAKULAM JETTY-->
+	<statement>
+        INSERT INTO bus VALUES(8160,'Ernakulam Jetty-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8160,147,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8160,219,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8160,224,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8160,222,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8160,58,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8160,60,"12:00")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(8166,'Ernakulam Jetty-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8166,147,"13:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8166,219,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8166,224,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8166,222,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8166,58,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8166,60,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8220,'Ernakulam Jetty-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8220,147,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8220,219,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8220,224,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8220,222,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8220,58,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8220,60,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8168,'Ernakulam Jetty-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8168,147,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8168,219,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8168,224,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8168,222,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8168,58,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8168,60,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8170,'Ernakulam Jetty-Aluva (via) Kaloor,kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8170,147,"20:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8170,219,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8170,224,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8170,222,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8170,58,"21:15")
+    </statement>
+	
+	
+	<!--From Perumbavur-->
+	<statement>
+        INSERT INTO bus VALUES(8207,'Perumbavur-Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8207,58,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8207,60,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8159,'Perumbavur-Ernakulam Jetty (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8159,147,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8159,219,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8159,222,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8159,222,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8159,58,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8159,60,"08:30")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(8200,'Perumbavur-Mattancherry (via) Aluva,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8200,60,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8200,58,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8200,224,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8200,219,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8200,139,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8200,144,"11:25")
+    </statement>
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8209,'Perumbavur-Thevara (via) Aluva,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8209,60,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8209,58,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8209,224,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8209,219,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8209,145,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8165,'Perumbavur-Ernakulam Jetty (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8165,147,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8165,219,"12:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8165,224,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8165,222,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8165,58,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8165,60,"11:10")
+    </statement>
+
+
+
+
+
+	<statement>
+        INSERT INTO bus VALUES(8161,'Perumbavur-Ernakulam Jetty (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8161,147,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8161,219,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8161,224,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8161,222,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8161,58,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8161,60,"12:20")
+    </statement>
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8202,'Perumbavur-Mattancherry (via) Aluva,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8202,60,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8202,58,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8202,224,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8202,219,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8202,139,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8202,144,"16:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8211,'Perumbavur-W.Island (via) Aluva,MG Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8211,60,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8211,58,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8211,224,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8211,219,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8211,146,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8167,'Perumbavur-Ernakulam Jetty (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8167,147,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8167,219,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8167,224,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8167,222,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8167,58,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8167,60,"15:00")
+    </statement>
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8025,'Perumbavur-InfoPark (via) Aluva,S/A Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8025,137,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8025,58,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8025,60,"16:20")
+    </statement>
+	
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8169,'Perumbavur-Ernakulam Jetty (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8169,147,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8169,219,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8169,224,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8169,222,"19:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8169,58,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8169,60,"18:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8300,'Perumbavur-Mattancherry (via) Aluva,MG Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8300,60,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8300,58,"19:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8300,224,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8300,219,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8300,139,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8300,144,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8301,'Perumbavur-Ernakulam (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8301,60,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8301,58,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8301,222,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8301,224,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8301,219,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8301,57,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8213,'Perumbavur-Ernakulam (via) Aluva,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8213,57,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8213,219,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8213,224,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8213,222,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8213,58,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8213,60,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8163,'Perumbavur-Ernakulam (via) Kalamasserry,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8163,57,"21:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8163,219,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8163,224,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8163,222,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8163,58,"20:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8163,60,"20:00")
+    </statement>
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	<!--From KALADY-->
+	<statement>
+        INSERT INTO bus VALUES(8273,'Kalady-Ernakulam (via) Airport,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8273,57,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8273,219,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8273,224,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8273,58,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8273,142,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8273,225,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8272,'Kalady-Fort Kochi (via) Airport,MG Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,8272,143,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8272,139,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8272,219,"18:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8272,224,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8272,58,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8272,142,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8272,225,"17:15")
+    </statement>
+
+	
+	<!--From THEVARA-->
+	<statement>
+        INSERT INTO bus VALUES(8224,'Aluva (via) Padma,InfoPark,HMT','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8224,145,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8224,219,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8224,136,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8224,137,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8224,58,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8225,'Thevara-Perumbavur (via) MG Road,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8225,145,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8225,219,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8225,224,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8225,58,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8225,60,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8063,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8063,145,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8063,219,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8063,224,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8063,58,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8073,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8072,145,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8072,219,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8072,224,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8072,58,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8075,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8075,145,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8075,219,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8075,224,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8075,58,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8065,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8065,145,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8065,219,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8065,224,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8065,58,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8035,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8035,145,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8035,219,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8035,224,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8035,58,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8226,'Thevara-Aluva (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8226,145,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8226,219,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8226,224,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8226,58,"20:05")
+    </statement>
+	
+	
+	<!--From WILLINGTON ISLAND-->
+	<statement>
+        INSERT INTO bus VALUES(8032,'W.Island-Aluva (via) Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8032,146,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8032,219,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8032,224,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8032,58,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8071,'W.Island-Aluva (via) Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8071,146,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8071,219,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8071,224,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8071,58,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8212,'W.Island-Perumbavur (via) MG Road,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8212,60,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8212,58,"18:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8212,224,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8212,219,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8212,146,"17:10")
+    </statement>
+	
+	
+	From INFOPARK
+	<statement>
+        INSERT INTO bus VALUES(8024,'InfoPark-Perumbavur (via) S/A Road,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8024,137,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8024,58,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8024,60,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8026,'InfoPark-Perumbavur (via) S/A Road,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8026,137,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8026,58,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8026,60,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8029,'InfoPark-Fort Kochi (via) Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8029,137,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8029,136,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8029,219,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8029,139,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8029,143,"20:45")
+    </statement>
+	
+	
+	<!--From ALUVA-->
+	<statement>
+        INSERT INTO bus VALUES(8053,'Aluva-Fort Kochi (via) Kaloor,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8053,143,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8053,139,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8053,219,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8053,224,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8053,58,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8061,'Aluva-W.Island (via) Menaka,InfoPark','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8061,146,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8061,219,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8061,137,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8061,58,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8086,'Aluva-Poothotta (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8086,218,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8086,101,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8086,219,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8086,224,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8086,58,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8023,'Aluva-InfoPark (via) S/A Road','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8023,137,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8023,222,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8023,58,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8070,'Aluva-W.Island (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8070,146,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8070,219,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8070,224,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8070,58,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8079,'Aluva-Poothotta (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8079,218,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8079,101,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8079,219,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8079,224,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8079,58,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8208,'Aluva-Perumbavur','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8208,58,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8208,60,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8038,'Aluva-Fort Kochi (via) Kaloor,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8038,58,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8038,224,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8038,219,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8038,139,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8038,143,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8055,'Aluva-Fort Kochi (via) Padma,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8055,143,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8055,139,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8055,219,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8055,224,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8055,58,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8062,'Aluva-Thevara (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8062,145,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8062,219,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8062,224,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8062,58,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8088,'Aluva-Tripunithura (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8088,101,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8088,219,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8088,224,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8088,58,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8072,'Aluva-Thevara (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8072,145,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8072,229,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8072,224,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8072,58,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8040,'Aluva-Fort Kochi (via) Kaloor,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8040,58,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8040,224,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8040,219,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8040,139,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8040,143,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8081,'Aluva-Tripunithura (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8081,101,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8081,219,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8081,224,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8081,58,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8064,'Aluva-Thevara (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8064,145,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8064,219,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8064,224,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8064,58,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8074,'Aluva-Thevara (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8074,145,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8074,219,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8074,224,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8074,58,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8057,'Aluva-Fort Kochi (via) Kaloor,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8057,143,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8057,139,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8057,219,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8057,224,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8057,58,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8090,'Aluva-Poothotta (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8090,218,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8090,101,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8090,219,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8090,224,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8090,58,"15:40")
+    </statement>
+
+	<statement>
+        INSERT INTO bus VALUES(8042,'Aluva-Fort Kochi (via) Kaloor,Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8042,58,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8042,224,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8042,219,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8042,139,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8042,143,"17:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8036,'Aluva-Thevara (via) InfoPark,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8036,145,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8036,219,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8036,137,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8036,58,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8083,'Aluva-Poothotta (via) Kaloor,Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8083,218,"18:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8083,101,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8083,219,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8083,224,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8083,58,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8068,'Aluva-Thevara (via) Menaka','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8068,145,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8068,219,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8068,224,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8068,58,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8059,'Aluva-Fort Kochi (via) Padma,InfoPark','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8059,58,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8059,137,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8059,219,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8059,139,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8059,143,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8092,'Aluva-Ernakulam (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8092,57,"20:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8092,219,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8092,224,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8092,58,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8076,'Aluva-Ernakulam (via) Padma','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8076,57,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8076,219,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8076,224,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8076,58,"20:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8067,'Aluva-Ernakulam (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8067,57,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8067,219,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8067,224,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8067,58,"20:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8102,'Aluva-Ernakulam (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8102,58,"20:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8102,224,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8102,219,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8102,57,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8171,'Aluva-Ernakulam (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8171,57,"22:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8171,100,"22:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8171,224,"21:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,8171,58,"21:25")
+    </statement>
+	
+	
+	<!--From ERNAKULAM-->
+	<statement>
+        INSERT INTO bus VALUES(8179,'Ernakulam-Airport (via) Kaloor,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8179,57,"05:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8179,219,"05:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8179,224,"05:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8179,58,"05:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8179,142,"06:05")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8031,'Ernakulam-Ankamali (via) Kaloor,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8031,57,"05:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8031,219,"05:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8031,224,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8031,58,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8031,61,"06:45")
+    </statement>
+	
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8077,'Ernakulam-Poothotta (via) Tripunithura','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8077,218,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8077,101,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8077,100,"06:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8077,57,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8109,'Ernakulam-Ankamali (via) Kaloor,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8109,57,"06:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8109,219,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8109,224,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8109,58,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8109,61,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8052,'Ernakulam-Aluva (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8052,57,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8052,100,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8052,224,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8052,58,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8069,'Ernakulam-Aluva (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8069,57,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8069,219,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8069,224,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8069,58,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8118,'Ernakulam-Aroor (via) Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8118,221,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8118,100,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8118,57,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8021,'Ernakulam-Airport (via) Kaloor,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8021,142,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8021,58,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8021,224,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8021,219,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8021,57,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8206,'Ernakulam-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8206,57,"06:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8206,219,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8206,224,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8206,222,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8206,58,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8206,60,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8097,'Ernakulam-Fort Kochi (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8097,57,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8097,139,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8097,143,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8085,'Ernakulam-Aluva (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8085,57,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8085,219,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8085,224,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8085,58,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8158,'Ernakulam-Perumbavur (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8158,57,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8158,100,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8158,101,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8158,60,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8127,'Ernakulam-Aroor (via) Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8127,221,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8127,100,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8127,57,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8050,'Ernakulam-Fort Kochi (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8050,57,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8050,139,"07:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8050,143,"07:20")
+    </statement>
+
+	<statement>
+        INSERT INTO bus VALUES(8222,'Ernakulam-Kalady (via) Kaloor,Airport','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8222,57,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8222,219,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8222,224,"07:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8222,58,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8222,142,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8222,225,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8183,'Ernakulam-North Paravur (via) Kaloor,Aluva','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8183,57,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8183,219,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8183,224,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8183,58,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8183,63,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8136,'Ernakulam-Ankamali (via) Kaloor,Aluva Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8136,57,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8136,219,"07:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8136,224,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8136,58,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8136,61,"08:10")
+    </statement>
+
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8066,'Ernakulam-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8066,57,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8066,219,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8066,224,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8066,222,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8066,58,"08:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8066,60,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8103,'Ernakulam-Fort Kochi (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8103,57,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8103,139,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8103,143,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8164,'Ernakulam-Aluva (via) Vyttila Bypass','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8164,57,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8164,100,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8164,224,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8164,58,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8191,'Ernakulam-Aroor (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8191,57,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8191,139,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8191,221,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8172,'Ernakulam-Aroor (via) Vyttila','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8172,57,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8172,100,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8172,221,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(8235,'Ernakulam-Perumbavur (via) Kaloor,Kalamasserry','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8235,57,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8235,219,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8235,224,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8235,222,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8235,58,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,8235,60,"09:35")
+    </statement>
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8237,'Ernakulam-Aroor (via) Thoppumpady','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8237,57,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8237,139,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8237,221,"08:45")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8145,'Ernakulam-Airport (via) Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8145,57,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8145,219,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8145,224,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8145,58,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,8145,142,"11:45")
+    </statement>
+	
+	
+	
+	
+	
+	
+	<statement>
+        INSERT INTO bus VALUES(8190,'North Paravur-Ernakulam (via) Aluva,Kaloor','AC Low Floor')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,8190,57,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,8190,219,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,8190,58,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,8190,63,"18:45")
+    </statement>
+	
+	
+	
+	
+	
+	
+ </sql>

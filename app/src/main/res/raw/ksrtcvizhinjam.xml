@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS SERVICES-->
+	<!--06.30 VJM EKM FP-->
+	<statement>
+        INSERT INTO bus VALUES(1332,'Vizhinjam-Ernakulam (via) Kottayam,Vaikom','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,1332,7,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1332,333,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1332,1,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1332,16,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1332,10,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1332,23,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1332,128,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,1332,22,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,1332,32,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,1332,35,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,1332,39,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,1332,31,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(16,1332,46,"11:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(17,1332,45,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(18,1332,159,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(19,1332,164,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,1332,50,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(21,1332,101,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(22,1332,100,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(23,1332,57,"14:00")
+    </statement>
+
+	
+
+
+
+ </sql>

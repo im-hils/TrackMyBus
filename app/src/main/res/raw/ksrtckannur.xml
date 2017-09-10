@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--INTERSTATE RIDERS-->
+	
+	
+
+
+	<statement>
+        INSERT INTO bus VALUES(606,'Madurai (via) Kozhikkod,Palakkad,Palani','Super Express')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,606,89,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,606,91,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,606,119,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,606,85,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,606,118,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,606,81,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,606,250,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,606,77,"21:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,606,79,"22:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,606,75,"23:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,606,73,"00:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,606,230,"01:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,606,229,"02:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,606,236,"03:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,606,245,"04:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(16,606,228,"06:45")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(607,'Kannur (via) Palani,Palakkad,Kozhikkod','Super Express')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(16,607,89,"05:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,607,91,"04:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,607,119,"04:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,607,85,"04:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,607,118,"03:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,607,81,"03:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,607,250,"02:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,607,77,"01:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,607,79,"01:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,607,75,"00:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,607,73,"23:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,607,230,"22:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,607,229,"21:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,607,236,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,607,245,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,607,228,"17:00")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    
+
+
+
+ </sql>

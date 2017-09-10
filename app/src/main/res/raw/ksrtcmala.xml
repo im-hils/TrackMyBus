@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPER CLASS SERVICES-->
+	<!--07.15 MALA KUMILY LSFP-->
+	<statement>
+        INSERT INTO bus VALUES(7085,'Mala-Kumily (via) Muvattupuzha,Pala,Mundakkayam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7085,70,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7085,58,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,7085,60,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,7085,59,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,7085,54,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,7085,47,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,7085,48,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,7085,98,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,7085,99,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(25,7085,53,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(7086,'Kumily-Mala (via) Mundakkayam,Pala,Muvattupuzha','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,7086,53,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,7086,171,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,7086,170,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,7086,126,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,7086,99,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,7086,98,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,7086,48,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,7086,47,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(25,7086,70,"")
+    </statement>
+
+	
+
+
+
+ </sql>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--************************KUMILY CUMBUM CHAIN SERVICE*****************************-->
+	<!--KUMILY CUMBUM CHAIN-->
+	<statement>
+        INSERT INTO bus VALUES(630,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,630,53,"05:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,630,226,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(631,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,631,53,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,631,226,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(633,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,633,53,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,633,226,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(634,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,634,53,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,634,226,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(635,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,635,53,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,635,226,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(636,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,636,53,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,636,226,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(637,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,637,53,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,637,226,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(638,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,638,53,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,638,226,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(639,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,639,53,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,639,226,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(640,'Cumbum:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,640,53,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,640,226,"17:05")
+    </statement>
+	
+	
+	<!--CUMBUM KUMILY CHAIN-->
+	<statement>
+        INSERT INTO bus VALUES(642,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,642,226,"06:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,642,53,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(643,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,643,226,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,643,53,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(645,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,645,226,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,645,53,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(646,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,646,226,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,646,53,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(647,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,647,226,"11:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,647,53,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(648,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,648,226,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,648,53,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(649,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,649,226,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,649,53,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(650,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,650,226,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,650,53,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(651,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,651,226,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,651,53,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(652,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,652,226,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,652,53,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(653,'Kumily:KSRTC','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,653,226,"18:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,653,53,"19:05")
+    </statement>
+	
+	
+	
+	
+	
+
+	
+
+
+
+ </sql>

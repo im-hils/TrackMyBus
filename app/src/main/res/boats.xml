@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+    <!--1.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10000,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(1,10000,136,"07:30")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(2,10000,100,"07:50")
+    </statement>
+    <!--2.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10001,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(3,10001,136,"08:40")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(4,10001,100,"09:00")
+    </statement>
+    <!--3.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10002,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(5,10002,136,"10:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(6,10002,100,"10:20")
+    </statement>
+    <!--4.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10003,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(7,10003,136,"11:40")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(8,10003,100,"12:00")
+    </statement>
+    <!--5.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10004,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(9,10004,136,"14:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(10,10004,100,"14:40")
+    </statement>
+    <!--6.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10005,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(11,10005,136,"16:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(12,10005,100,"16:20")
+    </statement>
+    <!--7.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10006,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(13,10006,136,"17:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(14,10006,100,"17:40")
+    </statement>
+    <!--8.Kakkanad Vyttila-->
+    <statement>
+        INSERT INTO bus VALUES(10007,'Kakkanad-Vyttila City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(15,10007,136,"18:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(16,10007,100,"18:40")
+    </statement>
+    <!--1.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10008,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(17,10008,100,"07:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(18,10008,136,"07:20")
+    </statement>
+    <!--2.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10009,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(19,10009,100,"08:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(20,10009,136,"08:20")
+    </statement>
+    <!--3.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10010,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(21,10010,100,"09:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(22,10010,136,"09:40")
+    </statement>
+    <!--4.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10011,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(23,10011,100,"11:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(24,10011,136,"11:20")
+    </statement>
+    <!--5.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10012,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(25,10012,100,"13:30")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(26,10012,136,"13:50")
+    </statement>
+    <!--6.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10013,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(27,10013,100,"15:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(28,10013,136,"15:40")
+    </statement>
+    <!--7.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10014,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(29,10014,100,"16:40")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(30,10014,136,"17:00")
+    </statement>
+    <!--8.Vyttila Kakkanadu-->
+    <statement>
+        INSERT INTO bus VALUES(10015,'Vyttila-Kakkanad City Water Bus','Boat or Ferry')
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(31,10015,100,"17:50")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(32,10015,136,"18:10")
+    </statement>
+
+
+
+ </sql>

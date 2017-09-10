@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--TDPA SECTOR-->
+	<!--CHINNOOS TDPA CHELACHUVADU-->
+	<statement>
+        INSERT INTO bus VALUES(28000,'Chinnoos:Thodupuzha (via) Kaliyar','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28000,388,"05:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28000,54,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28001,'Chinnoos:Chelachuvadu (via) Kaliyar','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28001,54,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28001,388,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28002,'Chinnoos:Thodupuzha (via) Kaliyar','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28002,388,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28002,54,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28003,'Chinnoos:Chelachuvadu (via) Kaliyar','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28003,54,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28003,388,"")
+    </statement>
+	
+	
+	
+	<!--KING SOLOMON TDPA KUMILY-->
+	<statement>
+        INSERT INTO bus VALUES(28004,'King Solomon:Kumily (via) Idukki,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28004,54,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28004,53,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28005,'King Solomon:Thodupuzha (via) Kattapana,Idukki','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28005,53,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28005,54,"")
+    </statement>
+	
+	
+	
+	<!--STTHOMAS TDPA KUMILY-->
+	<statement>
+        INSERT INTO bus VALUES(28006,'St.Thomas:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28006,369,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28006,54,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28007,'St.Thomas:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28007,54,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28007,369,"08:30")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28008,'St.Thomas:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28008,369,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28008,54,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28009,'St.Thomas:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28009,54,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28009,369,"10:40")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28010,'St.Thomas:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28010,369,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28010,54,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28013,'St.Thomas:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28013,54,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28013,369,"16:40")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28012,'St.Thomas:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28012,369,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28012,54,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28011,'St.Thomas:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28011,54,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28011,369,"18:55")
+    </statement>
+	
+	
+	
+	<!--STSEBASTIAN TDPA KUMILY-->
+	<statement>
+        INSERT INTO bus VALUES(28014,'St.Sebastian:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28014,369,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28014,54,"06:40")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28015,'St.Sebastian:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28015,54,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28015,369,"07:40")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28016,'St.Sebastian:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28016,369,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28016,54,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28017,'St.Sebastian:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28017,54,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28017,369,"14:25")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28018,'St.Sebastian:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28018,369,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28018,54,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28019,'St.Sebastian:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28019,54,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28019,369,"16:45")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(28020,'St.Sebastian:Thodupuzha (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28020,369,"17:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28020,54,"18:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28021,'St.Sebastian:Paingottoor (via) Eazhalloor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28021,54,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28021,369,"19:40")
+    </statement>
+	
+	
+
+
+	
+
+	
+	
+	
+	<!--MOONNAR SECTOR-->
+	<!--ALPHONSA  KUMILY MOONNAR-->
+	//ON VIA PAMPADUMPARA NDKM POOPRA DEVIKULAM RETURN VIA CBMET KOCHARA
+	<statement>
+        INSERT INTO bus VALUES(28022,'Alphonsa:Munnar (via) Nedumkandam,Devikulam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28022,53,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28022,124,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28022,383,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28022,56,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28023,'Alphonsa:Kumily (via) Nedumkandam,Cumbummettu','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28023,53,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,28023,263,"18:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28023,124,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28023,383,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28023,56,"14:40")
+    </statement>
+	
+	
+	<!--ALPHONSA  KUMILY MOONNAR-->
+	//VIA PAMPADUMPARA NDKM POOPRA DEVIKULAM
+	<statement>
+        INSERT INTO bus VALUES(28024,'Alphonsa:Munnar (via) Nedumkandam,Devikulam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28024,53,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28024,124,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28024,383,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28024,56,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(28025,'Alphonsa:Kumily (via) Poopara,Nedumkandam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28025,53,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,28025,124,"13:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28025,383,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28025,56,"11:30")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--KALOOR MOTORS: TDPA MVPA KMLY MVPA TDPA LS-->
+	<statement>
+        INSERT INTO bus VALUES(28026,'Vazhayil:Muvattupuzha (via) Kanjirapally,Thodupuzha','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,28026,53,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,28026,171,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,28026,170,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,28026,126,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,28026,99,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,28026,98,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,28026,48,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,28026,59,":")
+    </statement>
+	
+	
+	
+	
+
+
+ </sql>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS  RIDERS-->
+	<!--19.00 KPA TVM SF-->
+	<statement>
+        INSERT INTO bus VALUES(2298,'Kalpetta-Trivandrum (via) Perinthalmanna,Muvattupuzha,Punalur','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2299,87,"19:00")
+    </statement>
+	//21.50A PMNA
+	<statement>
+        INSERT INTO schedule VALUES(7,2299,79,"22:00")
+    </statement>
+	//23.50A TSR
+	<statement>
+        INSERT INTO schedule VALUES(12,2299,66,"00:10")
+    </statement>
+	//02.40A TDPA
+	<statement>
+        INSERT INTO schedule VALUES(20,2299,66,"03:00")
+    </statement>
+	//05.30A PTA
+	<statement>
+        INSERT INTO schedule VALUES(30,2299,30,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(40,2299,1,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(2299,'Trivandrum-Kalpetta (via) Punalur,Muvattupuzha,Perinthalmanna','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2299,1,"19:00")
+    </statement>
+	//21.50A PTA
+	<statement>
+        INSERT INTO schedule VALUES(10,2299,30,"22:00")
+    </statement>
+	//00.30A TDPA
+	<statement>
+        INSERT INTO schedule VALUES(15,2299,54,"00:45")
+    </statement>
+	//03.15A TSR
+	<statement>
+        INSERT INTO schedule VALUES(25,2299,66,"03:30")
+    </statement>
+	//05.20A PMNA
+	<statement>
+        INSERT INTO schedule VALUES(30,2299,79,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(40,2299,87,"08:20")
+    </statement>
+
+
+
+
+
+<!--INTERSTATE  RIDERS-->
+	<!--05.00 KPA MSE-->
+	<statement>
+        INSERT INTO bus VALUES(486,'Kalpetta-Mysore (via) Bathery','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(19,486,87,"05:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,486,156,"05:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(21,486,86,"05:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(22,486,97,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(23,486,346,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(23,486,95,"08:45")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(488,'Mysore-Kalpatta (via) Bathery','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,488,87,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,488,156,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,488,86,"20:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,488,97,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,488,346,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,488,95,"17:45")
+    </statement>
+	
+	
+	<!--06.00 KPA MSE-->
+	<statement>
+        INSERT INTO bus VALUES(487,'Kalpetta-Mysore (via) Mananthavady,Bavali','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(19,487,87,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,487,88,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(21,487,404,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(23,487,95,"10:45")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(489,'Mysore-Kalpatta (via) Kutta,Mananthavady','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,489,87,"23:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,489,176,"22:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,489,88,"22:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,489,404,"22:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,489,212,"21:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,489,95,"18:30")
+    </statement>
+	
+
+	<!--08.00 KPA BGLR-->
+	<statement>
+        INSERT INTO bus VALUES(3057,'Kalpatta-Bangalore (via) Bathery,Mysore','Super Deluxe')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,3057,87,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,3057,86,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,3057,95,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,3057,94,"14:30")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(3056,'Bangalore(Satellite)-Kalpatta (via) Mysore,Kutta,Mananthavady','Super Deluxe')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,3056,94,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,3056,95,"23:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,3056,88,"03:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,3056,87,"04:30")
+    </statement>
+	
+
+	
+
+	
+	
+	
+	
+
+
+
+
+ </sql>

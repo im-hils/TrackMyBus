@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--PUDHUCHERRY STATE-->
+	<!--PRTC:KUMILY PUDHUCHERRY-->
+	<statement>
+        INSERT INTO bus VALUES(30006,'P.R.T.C:Pudhuchery-Kumily (via) Neyveli,Trichy,Theni','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30006,1008,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,30006,53,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(30005,'P.R.T.C:Kumily-Pudhucherry (via) Theni,Trichy,Neyveli','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30005,53,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,30005,1008,"")
+    </statement>
+	
+	
+	<!--PRTC:MAHE PUDHUCHERRY-->
+	<statement>
+        INSERT INTO bus VALUES(30007,'P.R.T.C:Pudhucherry-Mahe (via) Salem,Coimbatore,Palakkadu','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30007,1008,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,30007,119,"")
+    </statement>
+
+
+
+
+
+
+
+
+
+
+
+<!--TAMILNADU STATE-->
+	<!--CHENNAI GURUVAYUR-->
+	<statement>
+        INSERT INTO bus VALUES(30001,'S.E.T.C:Chennai-Guruvayur','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30001,335,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,30001,68,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(30000,'S.E.T.C:Guruvayur-Chennai','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30000,68,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,30000,335,"05:00")
+    </statement>
+	
+	
+	<!--TUTICORIN GURUVAYUR-->
+	<statement>
+        INSERT INTO bus VALUES(30002,'S.E.T.C:Guruvayur-Tuticorin','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30002,68,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,30002,501,"")
+    </statement>
+	
+	
+	<!--CHENNAI CHANGANACHERY-->
+	<statement>
+        INSERT INTO bus VALUES(30004,'S.E.T.C:Chennai-Changanacherry (via) Trichy,Kumily,Kottayam','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30004,335,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,30004,46,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(30003,'S.E.T.C:Changanacherry-Chennai (via) Kumily,Trichy','Ultra Deluxe Air Bus')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,30003,46,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,30003,45,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,30003,49,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,30003,98,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,30003,99,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,30003,335,"")
+    </statement>
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+
+
+
+ </sql>

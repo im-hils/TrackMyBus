@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS SERVICES-->
+	<!--06.00 VARKALA MDKM-->
+	<statement>
+        INSERT INTO bus VALUES(61,'Varkala-Mundakkayam (via) Punalur,Kanjirapally','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,61,99,"10:30")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(12,61,98,"10:05")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(11,61,51,"09:45")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(10,61,36,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,61,30,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,61,37,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,61,26,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,61,27,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,61,127,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,61,128,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,61,23,"06:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,61,165,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,61,162,"06:00")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(60,'Mundakkayam-Varkala (via) Pathanamthitta,Punalur','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(82,60,99,"13:10")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(83,60,98,"13:40")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(84,60,51,"14:05")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(85,60,36,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(86,60,30,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(87,60,37,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(88,60,26,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(89,60,27,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(90,60,127,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(91,60,128,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(92,60,23,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(93,60,165,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(94,60,162,"18:15")
+    </statement>
+	
+	
+	   
+
+
+
+ </sql>

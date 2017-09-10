@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPER CLASS SERVICES-->
+	<!--CHALLAKKUDY MDKM TSR-->
+	<statement>
+        INSERT INTO bus VALUES(583,'Chalakkudy-Mundakayam (via) Muvattupuzha,Thodupuzha,Pala','Fast Passenger')
+    </statement>
+	  <statement>
+        INSERT INTO schedule VALUES(1,583,67,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,583,99,"11:25")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(10,583,98,"11:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(9,583,48,"10:40")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(8,583,107,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,583,47,"10:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(6,583,54,"09:30")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(5,583,59,"09:00")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(4,583,60,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,583,225,"08:15")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(2,583,61,"08:05")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(582,'Mundakkayam-Thrissur (via) Pala,Thodupuzha,Muvattupuzha','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,582,99,"11:50")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(2,582,98,"12:15")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(3,582,48,"12:45")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(4,582,107,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,582,47,"13:05")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(6,582,54,"13:50")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(7,582,59,"14:25")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(8,582,60,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,582,225,"15:05")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(10,582,61,"15:20")
+    </statement>
+    <statement>
+        INSERT INTO schedule VALUES(11,582,67,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,582,66,"16:30")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<!--ORDINARY SERVICES-->	
+	<!--07.50 CHALAKKUDY MALAKKAPPARA-->
+	<statement>
+        INSERT INTO bus VALUES(826,'Chalakkudy-Malakkapara (via) Athirapally','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,826,67,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,826,307,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,826,308,"11:50")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(838,'Malakkappara-Chalakkudy (via) Athirapally','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,838,308,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,838,307,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,838,67,"16:00")
+    </statement>
+	
+    
+
+
+
+ </sql>

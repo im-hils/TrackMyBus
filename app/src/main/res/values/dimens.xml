@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edt_height">40.0dip</dimen>
+    <dimen name="autotextsize">15.0dip</dimen>
+    <dimen name="btn_height">40.0dip</dimen>
+    <dimen name="type1_text_size">15.0sp</dimen>
+    <dimen name="type2_text_size">14.0sp</dimen>
+    <dimen name="type3_text_size">13.0sp</dimen>
+    <dimen name="type4_text_size">12.0sp</dimen>
+    <dimen name="type5_text_size">12.0sp</dimen>
+    <dimen name="type6_text_size">10.0sp</dimen>
+    <dimen name="type7_text_size">9.5sp</dimen>
+    <dimen name="type8_text_size">17.0sp</dimen>
+</resources>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--BUS OPERATORS-->
+<!--1.PAZHOOR MOTORS-->
+//PTA CNGR PTA
+	<statement>
+        INSERT INTO bus VALUES(29031,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29031,30,"05:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29031,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29032,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29032,39,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29032,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29033,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29033,30,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29033,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29034,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29034,39,"10:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29034,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29035,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29035,30,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29035,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29036,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29036,39,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29036,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29037,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29037,30,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29037,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29038,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29038,39,"18:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29038,30,":")
+    </statement>
+
+
+
+//PTA CNGR PTA
+	<statement>
+        INSERT INTO bus VALUES(29008,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29008,30,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29008,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29009,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29009,39,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29009,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29010,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29010,30,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29010,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29011,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29011,39,"10:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29011,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29012,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29012,30,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29012,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29013,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29013,39,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29013,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29014,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29014,30,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29014,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29015,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29015,39,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29015,30,":")
+    </statement>
+
+
+
+//PTA CNGR PTA
+	<statement>
+        INSERT INTO bus VALUES(29000,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29000,30,"05:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29000,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29004,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29004,39,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29004,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29001,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29001,30,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29001,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29005,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29005,39,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29005,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29002,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29002,30,"12:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29002,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29006,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29006,39,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29006,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29003,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29003,30,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29003,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29007,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29007,39,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29007,30,":")
+    </statement>
+	
+	
+	
+	//PTA CNGR PTA
+	<statement>
+        INSERT INTO bus VALUES(29016,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29016,30,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29016,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29017,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29017,39,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29017,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29018,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29018,30,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29018,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29019,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29019,39,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29019,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29020,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29020,30,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29020,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29021,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29021,39,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29021,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29022,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29022,30,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29022,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29023,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29023,39,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29023,30,":")
+    </statement>
+	
+	
+	
+	//CNGR PTA HOLY MARY PAZHOOR BRAND
+	<statement>
+        INSERT INTO bus VALUES(29039,'Holy Mary:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29039,39,"06:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29039,30,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29040,'Holy Mary:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29040,30,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29040,39,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29041,'Holy Mary:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29041,39,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29041,30,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29042,'Holy Mary:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29042,30,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29042,39,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29043,'Holy Mary:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29043,39,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29043,30,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29044,'Holy Mary:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29044,30,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29044,39,"")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29045,'Holy Mary:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29045,39,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29045,30,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29046,'Holy Mary:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29046,30,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29046,39,"")
+    </statement>
+	
+	
+	
+	//PTA CNGR PTA
+	<statement>
+        INSERT INTO bus VALUES(29024,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29024,30,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29024,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29025,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29025,39,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29025,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29026,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29026,30,"12:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29026,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29027,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29027,39,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29027,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29028,'Pazhoor:Chengannur (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29028,30,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29028,39,":")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(29029,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29029,39,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29029,30,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(29030,'Pazhoor:Pathanamthitta (via) Kozhencherry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,29030,39,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,29030,30,":")
+    </statement>
+
+
+
+
+	
+
+
+
+ </sql>

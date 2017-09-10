@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS SERVICES-->
+	<!--07.00 EDATHUA AMBLAPUZHA PTA KTYM FP (EDATHUA DIPOT)-->
+	<statement>
+        INSERT INTO bus VALUES(800,'Edathua-Ambalappuzha (via) Thakazhi','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,800,44,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,800,354,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,800,265,"07:20")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(801,'Ambalappuzha-Pathanamthitta (via) Edathua,Thiruvalla','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,801,265,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,801,354,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,801,44,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,801,355,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,801,31,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,801,190,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,801,30,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1189,'Pathanamthitta-Kottayam (via) Thiruvalla','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1189,30,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,1189,190,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1189,31,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1189,46,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1189,45,"11:10")
+    </statement>
+
+	
+
+
+
+ </sql>

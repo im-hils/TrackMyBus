@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="open_drawer">Drawer Open</string>
+    <string name="close_drawer">Drawer Close</string>
+    <string name="eula_agreement">
+        <html>"End User License Agreement for IRTTT IMPORTANT PLEASE READ THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT CAREFULLY BEFORE CONTINUING WITH THIS APPLICATION USAGE: IRTTT app's End User License Agreement (EULA) is a legal agreement between you( either an individual or an entity) and SVJK for the SVJK's software product(s) identified above which may include associated software components, media, printed materials, and online or electronic documentation (SOFTWARE PRODUCT). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. This license agreement represents the entire agreement concerning the program between you and SVJK(referred to as the licenser), and it supersedes any prior proposal, representation, or understanding between the parties. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+
+"<b>Liability Disclaimer</b>"
+
+ This Android application is provided to you free of charge, as is by ILMK
+ • IRTTT app and all content within them are provided on an as is and as available basis without any warranties of any kind, whether express or implied, including, but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non–infringement. In no event shall SVJK be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action or contract, negligence or other tortuous action, arising out of or in connection with the use or performance of information available on this App.
+ • Any material downloaded or otherwise obtained through this application is done at your own risk and discretion and you will be solely responsible for any damage to your device or loss of data that results from the downloading or use of any such material.
+ • SVJK shall not be liable for any damages or injury resulting from your access to, or inability to access, this App, or from any virus, bugs, tampering, omission, interruption, deletion, defect, delay, computer line failure, or any other technical malfunction related to this App.
+ • IF YOU ARE DISSATISFIED WITH THIS APP, OR ANY PORTION THEREOF, YOUR EXCLUSIVE REMEDY SHALL BE TO CEASE USING THE APP.
+
+"<b>Links to Third Party Web Sites</b>"
+
+ • IRTTT application contains LINKS to third party sites which are not under the control of SVJK and SVJK is not responsible for the contents on any linked site or any link contained in a linked site or any changes or updates to such sites. SVJK is providing these links to you only as a convenience or for advertises, and the inclusion of any link does not imply that SVJK endorses or accepts any responsibility for the content on such third–party sites.
+• If you live in countries having laws prohibiting the use of these tools you are not allowed to download them.
+ • End users should be aware that forced removal of targeted components or features can in some cases, create unwanted or undesirable side effects. We recommend that you use your own judgement when accessing risks and removing software. When available end users should make use of the standard uninstall procedures provided with the software. Ultimately end users are responsible for the software running on their own devices.
+
+"<b>Copyright and Trademark Notices</b>"
+
+ • All content in this application is Copyright© 2011–2012 SVJK
+ • DO NOT reproduce this application without any permission from the authors.
+
+"<b>Termination</b>"
+
+ Without prejudice to any other rights, SVJK may terminate this EULA if you fail to comply with the terms and conditions of the EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT in your possession.
+
+"<b>Copyright</b>"
+
+ All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by SVJK or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by the applicable copyright or other intellectual property laws and treaties. This EULA grants you no rights to use such content. All rights not expressly granted are reserved by SVJK.
+
+"<b>No Warranties</b>"
+
+ SVJK expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT is provided 'as is' without any express or implied warranty of any kind, including but not limited to any warranties of merchantability, non–fringement, or fitness of particular purpose. SVJK does not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items contained within the SOFTWARE PRODUCT. SVJK makes no warranties respecting any harm that may be caused by the transmission of a computer virus, worm or other such computer program. SVJK also further expressly disclaims any warranty or representation to authorized users or to any third party.
+
+"<b>Limitation of Liabilities</b>"
+
+ In no event shall SVJK be liable for any damages (including but not being limited to, lost profits, business interruption, or lost information) arising out of 'Authorized users' use of or inability to use the SOFTWARE PRODUCT, even if SVJK has been advised of the possibility of such damages. In no event will SVJK be liable for loss of data for indirect, special, incidental, consequential (including lost profit), or other damages based in contract, tort or otherwise. SVJK shall have no liability with respect to the content of the SOFTWARE PRODUCT or any part thereof, including but not limited to errors or omissions contained therein, infringements of rights of publicity, privacy, trademark rights, business interruption, personal injury, loss of privacy, moral rights or the disclosure of confidential information."</html></string>
+
+
+    <string name="app_name">TravelHub</string>
+    <string name="home_text">HOME</string>
+    <string name="bus_between_stations_text">SEARCH BETWEEN STOPS</string>
+    <string name="passing_by_buses_text">PASSING BY</string>
+    <string name="helpline_text">KSRTC HELP LINE NUMBERS</string>
+    <string name="help_text">HELP</string>
+    <string name="title_text">Kerala Travel Hub</string>
+    <string name="action_settings">Settings</string>
+    <string name="headingsrc">SOURCE</string>
+    <string name="destination">DESTINATION</string>
+    <string name="dummy">dummy</string>
+    <string name="top_destination">TOP DESTINATIONS</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="application_text">APPLICATION</string>
+    <string name="sl_no_text">SL NO</string>
+    <string name="tvTime">TIME</string>
+    <string name="tvName">SCHEDULE</string>
+    <string name="tvClass">TYPE</string>
+    <string name="tvTowards">TOWARDS</string>
+    <string name="headerImageDescription">Bus</string>
+    <string name="tvAutoSource">Enter Name or Code</string>
+    <string name="tvEnterSource">ENTER THE STOP NAME</string>
+    <string name="tvBusIcon">Bus Icon</string>
+    <string name="tvSubHeading">For Bus,Train,Boat Service Info</string>
+    <string name="tvDep">DEP</string>
+    <string name="tvArr">ETA</string>
+    <string name="tvSwitch">Switch to</string>
+    <string name="class_prompt">Choose a Class</string>
+
+    <string-array name="class_arrays">
+        <item>All</item>
+        <item>Ordinary</item>
+        <item>Limited Stop Ordinary</item>
+        <item>Town To Town Ordinary</item>
+        <item>Low Floor AC Volvo</item>
+        <item>Low Floor Non AC</item>
+        <item>Fast Passenger</item>
+        <item>Super Fast Passenger</item>
+        <item>Super Express Air Bus</item>
+        <item>Super Deluxe Air Bus</item>
+        <item>AC Multi Axile</item>
+        <item>AC Air Bus</item>
+        <item>Silver Line Jet</item>
+        <item>Point to Point</item>
+    </string-array>
+</resources>

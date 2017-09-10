@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPER CLASS SERVICES-->
+	<!--TECHNOPARK PTA FP-->
+	<statement>
+        INSERT INTO bus VALUES(1978,'Trivandrum-Pathanamthitta (via) Technopark,Punalur','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1978,1,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,1978,322,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1978,16,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1978,10,"19:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1978,23,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1978,128,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,1978,127,"19:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,1978,27,"20:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,1978,26,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,1978,37,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,1978,30,"21:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(1979,'Pathanamthitta-Trivandrum (via) Punalur,Technopark','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1979,30,"04:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,1979,37,"04:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,1979,26,"05:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,1979,27,"05:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,1979,127,"06:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,1979,126,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,1979,23,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,1979,10,"06:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,1979,16,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,1979,322,"07:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,1979,1,"08:10")
+    </statement>
+
+	
+
+
+
+ </sql>

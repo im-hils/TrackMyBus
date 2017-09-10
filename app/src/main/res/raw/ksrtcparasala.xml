@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+<!--SUPERCLASS SERVICES-->
+	<!--06.10 PARASALA KALAYIKKAVILA KTM THEKKADY PTA KALAYIKKAVILA SF-->
+	<statement>
+        INSERT INTO bus VALUES(2258,'Kalayikkavila-Kumily (via) Kottarakkara,Kottayam,Mundakkayam','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,2258,132,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2258,11,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,2258,5,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,2258,1,"07:30")
+    </statement>
+	//KTR 09.20A 09.35D
+	<statement>
+        INSERT INTO schedule VALUES(8,2258,22,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(22,2258,45,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(23,2258,160,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(24,2258,49,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(25,2258,98,"12:45")
+    </statement>
+	//MDKM 13.05A 13.25D
+	<statement>
+        INSERT INTO schedule VALUES(26,2258,99,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(27,2258,126,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(28,2258,170,"14:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(29,2258,171,"14:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(30,2258,53,"15:00")
+    </statement>
+	//RETRN
+	<statement>
+        INSERT INTO bus VALUES(2259,'Thekkady-Kalayikkavavila (via) Mundakkayam,Pathanamthitta,Kottarakkara','Super Fast')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,2259,314,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,2259,53,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,2259,171,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,2259,170,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,2259,126,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,2259,99,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,2259,51,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,2259,36,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,2259,30,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,2259,32,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(18,2259,22,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(19,2259,128,"21:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,2259,23,"21:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(21,2259,10,"21:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(22,2259,16,"21:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(27,2259,1,"22:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(28,2259,5,"23:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(29,2259,11,"23:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(30,2259,132,"23:20")
+    </statement>
+	
+	
+
+
+	<!--08.00 PARASALA KALAYIKAVILA EDATHUA FP RPA134-->
+	<statement>
+        INSERT INTO bus VALUES(1301,'Kaliakkavilai-Edathua (via) Kottarakkara,Thiruvalla','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,1301,132,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,1301,44,"")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(904,'Edathua-Parasala (via) Thiruvalla,Kottarakkara,Trivandrum','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,904,44,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(20,904,1,"")
+    </statement>
+	
+
+	
+
+
+
+ </sql>

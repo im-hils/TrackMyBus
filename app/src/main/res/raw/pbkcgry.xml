@@ -1,0 +1,1755 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sql>
+//TOWARDS KK ROAD
+	<!--St Antony CGRY KTPN NDKM LS-->
+	<statement>
+        INSERT INTO bus VALUES(22056,'St.Antony:Nedumkandam (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22056,46,"03:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22056,172,"03:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22056,124,":")
+    </statement>
+	
+	
+	<!--Private CGRY KML NDKM LS-->
+	<statement>
+        INSERT INTO bus VALUES(22001,'Private:Nedumkandam (via) Mundakkayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22001,46,"04:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22001,172,"04:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22001,124,":")
+    </statement>
+	
+	
+	<!--KE MOTORS CGRY KTPN NDKM LS-->
+	<statement>
+        INSERT INTO bus VALUES(22002,'K.E.M.S:Nedumkandam (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22002,46,"04:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22002,172,"05:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22002,124,":")
+    </statement>
+	
+	
+	<!--MORNING STAR CGRY KMLY KTPN LS-->
+	<statement>
+        INSERT INTO bus VALUES(22003,'Morning Star:Kattapana (via) Mundakkayam,Kumily','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22003,46,"05:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22003,172,"06:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22003,49,"07:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22003,98,"07:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22003,99,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22003,52,"11:15")
+    </statement>
+	//RETURN VERIFIED AT MDKM
+	<statement>
+        INSERT INTO bus VALUES(22062,'Morning Star:Changanaserry (via) Kumily,Ponkunnam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22062,52,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22062,53,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22062,171,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22062,170,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22062,126,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22062,99,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22062,98,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22062,49,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22062,172,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22062,46,"17:20")
+    </statement>
+	
+	
+	<!--***KE MOTORS CGRY KTPN MRKSRY LS***-->
+	<statement>
+        INSERT INTO bus VALUES(22004,'K.E.M.S:Murikkaserry (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22004,46,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22004,172,"06:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22004,379,"11:40")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(22013,'K.E.M.S:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22013,379,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22013,52,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22013,126,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22013,99,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22013,98,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22013,46,":")
+    </statement>
+	
+	
+	<!--***GRACE CGRY KTPN NDKM LS***-->
+	<statement>
+        INSERT INTO bus VALUES(22005,'Grace:Nedumkandam (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22005,46,"06:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22005,172,"06:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22005,124,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22108,'Grace:Changanaserry (via) Elappara,Mundakkayam','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22108,124,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22108,52,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22108,46,":")
+    </statement>
+	
+	
+	<!--***AMALA CGRY KTPN Kuzhitholu***-->
+	<statement>
+        INSERT INTO bus VALUES(22008,'Amala:Kuzhitholu (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22008,46,"07:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22008,172,"07:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22008,49,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22008,98,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22008,99,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22008,52,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22066,'Amala:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22066,262,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22066,52,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22066,125,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22066,126,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22066,99,"15:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22066,98,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22066,49,"16:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22066,172,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22066,46,"17:30")
+    </statement>
+	
+	
+	<!--RAJU CGRY KMLY CMBMET-->
+	<statement>
+        INSERT INTO bus VALUES(22010,'Raju:Cumbummettu (via) Mundakkayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22010,46,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22010,172,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22010,53,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22010,263,"11:20")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22016,'Raju:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22016,46,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,22016,172,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22016,187,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22016,49,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22016,98,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22016,99,"15:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22016,126,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22016,170,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22016,171,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22016,53,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22016,263,"12:30")
+    </statement>
+	
+	
+	<!--PALLIPARAMBIL CGRY KTPN -->
+	//VERIFIED KPLY AT 08.40
+	<statement>
+        INSERT INTO bus VALUES(22012,'Palliparambil:Kattapana (via) Mundakkayam,Elappara','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22012,46,"07:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22012,172,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22012,98,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22012,98,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22012,99,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22012,52,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22068,'Palliparambil:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22068,52,"13:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22068,126,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22068,99,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22068,98,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22068,46,":")
+    </statement>
+	
+	
+	<!--***KE MOTORS MVKA CGRY KTPN LS***-->
+	<statement>
+        INSERT INTO bus VALUES(22107,'K.E.M.S:Kattapana (via) Mundakkayam,Elappara','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22107,46,"07:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22107,172,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22107,52,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22094,'K.E.M.S:Mavelikkara (via) Mundakkayam,Changanaserry','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22094,52,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22094,125,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22094,126,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22094,99,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22094,98,"15:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22094,49,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22094,187,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22094,172,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22094,46,":")
+    </statement>
+	
+	
+	<!--***KE MOTORS CGRY KTPN LS***-->
+	<statement>
+        INSERT INTO bus VALUES(22106,'K.E.M.S:Kattapana (via) Mundakkayam,Elappara','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22106,46,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22106,172,"08:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22106,52,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22067,'K.E.M.S:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22067,52,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22067,99,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22067,98,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22067,46,":")
+    </statement>
+	
+	
+	<!--KONDODY KTYM CGRY KTPN ERATAYAR-->
+	<statement>
+        INSERT INTO bus VALUES(22077,'Kondody:Erattayar (via) Mundakayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22077,46,"08:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22077,172,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22077,187,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22077,49,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22077,98,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22077,99,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22077,52,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22077,380,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22078,'Kondody:Changanaserry (via) Mundakayam,Karukachal','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22078,46,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22078,172,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22078,187,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22078,49,"17:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22078,98,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22078,99,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22078,52,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22078,380,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22079,'Kondody:Changanaserry','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(0,22079,45,"07:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22079,46,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22080,'Kondody:Kottayam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22080,46,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22080,45,"20:05")
+    </statement>
+	
+	
+	<!--MAREENA CGRY KML KOCHARA LS-->
+	<statement>
+        INSERT INTO bus VALUES(22099,'Mareena:Kumily (via) Mundakkayam,Periyar','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22099,46,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22099,172,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22099,49,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22099,98,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22099,99,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22099,53,":")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(22017,'Mareena:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22017,53,"16:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22017,171,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22017,170,"17:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22017,126,"17:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22017,99,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22017,98,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22017,49,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22017,172,"19:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22017,46,"20:00")
+    </statement>
+	
+	
+	<!--STMARY CGRY KTPN CHETTUKUZHY CMBMET LS-->
+	<statement>
+        INSERT INTO bus VALUES(22086,'St.Mary:Cumbummettu (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22086,46,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22086,172,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22086,187,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22086,49,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22086,98,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22086,99,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22086,52,":")
+    </statement>
+	
+	
+	<!--TRINITY KYMKLM CGRY NDKM LS-->
+	<statement>
+        INSERT INTO bus VALUES(22048,'Trinity:Nedumkandam (via) Changanaserry,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22048,46,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22048,172,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22048,187,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22048,49,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22048,98,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22048,99,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22048,52,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22101,'Trinity:Kayamkulam (via) Mundakkayam,Changanaserry','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22101,124,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22101,52,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22101,46,":")
+    </statement>
+	
+	
+	<!--TRINITY KYMKLM CGRY NDKM LS-->
+	<statement>
+        INSERT INTO bus VALUES(22100,'Trinity:Nedumkandam (via) Changanaserry,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22100,46,"09:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22100,172,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22100,49,"11:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22100,98,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22100,124,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22102,'Trinity:Kayamkulam (via) Mundakkayam,Changanaserry','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22102,124,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22102,52,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22102,46,":")
+    </statement>
+	
+	
+	<!--GRACE MVKA KMLY LS -->
+	<statement>
+        INSERT INTO bus VALUES(22021,'Grace:Kumily (via) Mundakkayam','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22021,46,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22021,172,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22021,49,"11:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22021,98,"11:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22021,53,":")
+    </statement>
+	//Retrn
+	//VERIFIED AT KPLY 17.20
+	<statement>
+        INSERT INTO bus VALUES(22022,'Grace:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22022,53,"15:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22022,171,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22022,170,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22022,126,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22022,99,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22022,98,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22022,49,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22022,172,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22022,46,"18:30")
+    </statement>
+	
+	
+	<!--SANTOSH CGRY KMLY CMBMET-->
+	//VERIFIED 13.35D AT MDKM
+	<statement>
+        INSERT INTO bus VALUES(22027,'Santhosh:Cumbummettu (via) Mundakkayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22027,46,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22027,172,"12:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22027,49,"13:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22027,98,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22027,99,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22027,126,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22027,170,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22027,171,"14:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22027,53,"15:30")
+    </statement>
+	//RETURN
+	<statement>
+        INSERT INTO bus VALUES(22063,'Santhosh:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22063,53,"05:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22063,46,":")
+    </statement>
+	
+	
+	<!--GEMNSH CGRY KMLY KOOTAR-->
+	<statement>
+        INSERT INTO bus VALUES(22087,'Gemnish:Kootar (via) Mundakkayam,Kumily','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22087,46,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22087,172,"12:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22087,49,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22087,98,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22087,99,"14:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22087,53,":")
+    </statement>
+	//VERIFIED AT KPLY
+	<statement>
+        INSERT INTO bus VALUES(22088,'Gemnish:Changanaserry (via) Mundakkayam,Karukachal','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22088,199,"04:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22088,53,"06:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22088,99,"08:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22088,98,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22088,49,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,22088,172,"09:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22088,46,"09:45")
+    </statement>
+	
+	
+	<!--***ISSAC CGRY KTPN CMBMET***-->
+	<statement>
+        INSERT INTO bus VALUES(22033,'Issac:Kattapana (via) Mundakkayam,Elappara','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22033,46,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22033,172,"13:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22033,49,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22033,98,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22033,99,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22033,126,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22033,125,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22032,52,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22084,'Issac:Changanaserry (via) Elappara,Mundakkayam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22084,99,"09:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22084,98,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22084,49,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22084,172,"10:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22084,46,"10:40")
+    </statement>
+	
+	
+	<!--***ANGEL CGRY KTPN***-->
+	<statement>
+        INSERT INTO bus VALUES(22032,'Angel:Kattapana (via) Mundakkayam,Elappara','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22032,46,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22032,172,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22032,49,"14:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22032,98,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22032,99,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22032,126,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22032,125,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22032,52,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22085,'Angel:Changanaserry (via) Elappara,Mundakkayam','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22085,99,"09:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22085,98,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22085,49,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22085,172,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22085,46,"10:45")
+    </statement>
+	
+	
+	<!--STTHOMAS CGRY KTPN KZHTHL-->
+	<statement>
+        INSERT INTO bus VALUES(22031,'St.Thomas:Kuzhitholu (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22031,46,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22031,172,"14:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22031,262,":")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(22083,'St.Thomas:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22083,99,"09:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22083,98,"10:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22083,49,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22083,172,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22083,46,"11:20")
+    </statement>
+	
+	
+	<!--***STJOSEPH CGRY KTPN NDKM***-->
+	<statement>
+        INSERT INTO bus VALUES(22097,'St.Joseph:Nedumkandam (via) Mundakkayam,Kattapana','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22097,46,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22097,172,"14:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22097,49,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22097,98,"15:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22097,99,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22097,126,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22097,125,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22097,52,":")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(22109,'St.Joseph:Changanaserry (via) Mundakkayam,Karukachal','Fast Passenger')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22109,124,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22109,52,"09:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22109,99,"11:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22109,98,"11:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22109,49,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22109,172,"12:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22109,46,"13:00")
+    </statement>
+	
+	
+	<!--KONDODY CGRY KMLY BP CTY-->
+	//VERIFIED 16.12A+3 MDKM
+	<statement>
+        INSERT INTO bus VALUES(22030,'Kondodys:Balanpilla City (via) Mundakayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22030,46,"14:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22030,172,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22030,49,"15:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22030,98,"15:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22030,99,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22030,126,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22030,170,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22030,171,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22030,53,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22030,374,":")
+    </statement>
+	
+	
+	<!--KONDODY CGRY KMLY CMBMET-->
+	<statement>
+        INSERT INTO bus VALUES(22006,'Kondodys:Cumbummettu (via) Mundakayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22006,46,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22006,46,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22006,49,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22006,98,"16:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22006,99,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22006,126,"17:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22006,170,"17:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22006,171,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22006,53,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22006,263,"")
+    </statement>
+	//RETURN VERIFIED 11.30A AT KPLY BS
+	<statement>
+        INSERT INTO bus VALUES(22007,'Kondodys:Changanaserry (via) Mundakayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22007,263,"05:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22007,99,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22007,98,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22007,49,"11:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22007,172,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22007,46,"12:45")
+    </statement>
+	
+	
+	<!--SHAJEE CGRY THOPRAKDY-->
+	<statement>
+        INSERT INTO bus VALUES(22053,'Shajee:Thopramkudy (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22053,46,"15:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22053,172,"15:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22053,49,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22053,98,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22053,99,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22053,126,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22053,125,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22053,366,":")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22111,'Shajee:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22111,52,"09:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22111,99,"11:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22111,98,"12:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22111,49,"12:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,22111,172,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22111,46,"13:10")
+    </statement>
+	
+	
+	<!--NEELAMBAR CGRY KTPN EZHKMVAYAL-->
+	//VERIFIED 17.35D MDKM
+	<statement>
+        INSERT INTO bus VALUES(22035,'Neelambari:Ezhukumvayal (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22035,46,"15:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22035,172,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22035,49,"16:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22035,98,"16:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22035,99,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22035,52,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22035,445,"20:40")
+    </statement>
+	//Retrn
+	<statement>
+        INSERT INTO bus VALUES(22034,'Neelambari:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22034,445,"07:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22034,52,"08:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22034,99,"10:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22034,98,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22034,49,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22034,172,"12:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22034,46,"12:30")
+    </statement>
+	
+	
+	<!--KONDODY CGRY KMLY KZHTHL-->
+	<statement>
+        INSERT INTO bus VALUES(22009,'Kondody:Kuzhitholu (via) Mundakayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22009,46,"16:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22009,172,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22009,49,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22009,98,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22009,99,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22009,126,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22009,170,"18:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22009,171,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22009,53,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22009,262,":")
+    </statement>
+	//RETURN VERIFIED AT MDKM
+	<statement>
+        INSERT INTO bus VALUES(22011,'Kondody:Changanaserry (via) Mundakayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22011,99,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22011,98,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22011,49,"12:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22011,172,"13:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22011,46,":")
+    </statement>
+	
+	
+	<!--STMARY CGRY KTPN CUMBAMMETU-->
+	<statement>
+        INSERT INTO bus VALUES(22023,'St.Mary:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22023,52,"16:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22023,125,"17:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22023,126,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22023,99,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22023,98,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22023,49,"19:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22023,172,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22023,46,"20:10")
+    </statement>
+	
+	
+	<!--KONDOY CGRY KTPN NDKM -->
+	<statement>
+        INSERT INTO bus VALUES(22024,'Kondody:Nedumkandam (via) Mundakayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22024,46,"16:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22024,172,"16:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22024,49,"17:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22024,98,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22024,99,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22024,126,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22024,126,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22024,52,":")
+    </statement>
+	//Return
+	<statement>
+        INSERT INTO bus VALUES(22025,'Kondody:Changanaserry (via) Mundakayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22025,124,"07:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22025,52,"08:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22025,99,"10:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22025,98,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22025,49,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(14,22025,172,"11:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22025,46,"12:00")
+    </statement>
+	
+	
+	<!--PALLIPARAMBIL CGRY KTPN -->
+	<statement>
+        INSERT INTO bus VALUES(22104,'Palliparambil:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22104,99,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22104,98,"16:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22104,49,"17:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22104,46,":")
+    </statement>
+	
+	
+	<!--KONDODY CGRY KMLY CMBMET BP CTY-->
+	<statement>
+        INSERT INTO bus VALUES(22019,'Kondody:Balanpillacity (via) Mundakayam,Kumily','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22019,46,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22019,172,"17:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22019,49,"18:05")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22019,98,"18:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22019,99,"19:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22019,126,"19:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22019,170,"19:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22019,171,"20:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22019,53,"20:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22019,374,":")
+    </statement>
+	//RETURN VERIFIED AT MDKM,KPLY
+	<statement>
+        INSERT INTO bus VALUES(22014,'Kondody:Changanaserry (via) Mundakayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22014,99,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22014,98,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22014,49,"13:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22014,172,"14:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22014,46,"14:45")
+    </statement>
+	
+	
+	
+	<!--***MTTRANSPORT CGRY KTPN NDKM***-->
+	<statement>
+        INSERT INTO bus VALUES(22110,'M.T.Transport:Nedumkandam (via) Mundakkayam,Kattapana','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22110,46,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22110,172,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22110,124,":")
+    </statement>
+	//RETURN VERIFIED AT KPLY,MDKM
+	<statement>
+        INSERT INTO bus VALUES(22103,'M.T.Transport:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22103,124,"11:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22103,52,"12:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22103,126,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22103,99,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22103,98,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22103,49,"15:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(16,22103,46,":")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<!--KE MOTORS CGRY LS-->
+	<statement>
+        INSERT INTO bus VALUES(22105,'K.E.M.S:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(7,22105,99,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(8,22105,98,"10:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22105,49,"10:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22105,46,":")
+    </statement>
+	
+	<!--KONDOY CGRY KTPN NDKM -->
+	<statement>
+        INSERT INTO bus VALUES(22026,'Kondody:Changanaserry (via) Mundakayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22026,52,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22026,99,"18:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22026,98,"18:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22026,49,"18:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(13,22026,172,"19:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22026,46,"19:45")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22089,'Angel:Changanaserry (via) Mundakkayam,Karukachal','LS Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22089,99,"08:15")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22089,98,"08:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(11,22089,49,"08:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(12,22089,172,"09:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(15,22089,46,"10:00")
+    </statement>
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+//TOWRDS KPLY
+	<!--ANJANA CGRY KPLY -->
+	<statement>
+        INSERT INTO bus VALUES(22015,'Anjana:Kanjirapally (via) Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22015,46,"07:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22015,172,"08:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22015,98,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22028,'Anjana:Kanjirapally (via) Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22028,46,"12:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22028,172,"13:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22028,187,"13:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(4,22028,98,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22028,98,"13:45")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22081,'Anjana:Kanjirapally (via) Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22081,46,"16:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22081,172,"17:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22081,98,":")
+    </statement>
+	
+	<!--SWAPNA CGRY PNK -->
+	<statement>
+        INSERT INTO bus VALUES(22018,'Swapna:Ponkunnam (via) Kodungoor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22018,46,"08:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22018,172,"09:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22018,49,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22029,'Swapna:Ponkunnam (via) Kodungoor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22029,46,"12:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22029,172,"13:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22029,49,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22082,'Swapna:Ponkunnam (via) Kodungoor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22082,46,"15:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22082,172,"16:25")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22082,49,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22045,'Swapna:Ponkunnam (via) Kodungoor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22045,46,"20:00")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22045,172,"20:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22045,49,":")
+    </statement>
+	
+	
+	
+	<!--STMARY CGRY PNK-->
+	<statement>
+        INSERT INTO bus VALUES(22044,'St.Mary:Ponkunnam (via) Kodungoor','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22044,46,"19:45")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22044,172,"20:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22044,49,":")
+    </statement>
+	
+	
+	
+	<!--TEEJAY CGRY CHAMAMPATHAL KPLY-->
+	<statement>
+        INSERT INTO bus VALUES(22071,'Teejay:Kanjirapally (via) Chamampathal,Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22071,46,"08:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22071,172,"09:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22071,434,"09:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22071,49,"09:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22071,98,"10:00")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22074,'Teejay:Changanaserry (via) Chamampathal,Karukachal','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22074,98,"10:20")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22074,49,"10:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22074,434,"10:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22074,46,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22072,'Teejay:Kanjirapally (via) Chamampathal,Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22072,46,"12:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22072,172,"13:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22072,434,"13:35")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(9,22072,49,"13:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22072,98,"14:05")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22075,'Teejay:Changanaserry (via) Chamampathal,Karukachal','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22075,98,"14:40")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(2,22075,49,"14:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22075,434,"15:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22075,46,":")
+    </statement>
+	
+	<statement>
+        INSERT INTO bus VALUES(22073,'Teejay:Kanjirapally (via) Chamampathal,Ponkunnam','Ordinary')
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(1,22073,46,"17:50")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(3,22073,172,"18:30")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(5,22073,434,"18:55")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(6,22073,49,"19:10")
+    </statement>
+	<statement>
+        INSERT INTO schedule VALUES(10,22073,98,"19:25")
+    </statement>
+	<statement>
+        INSERT INTO bus VALUES(22076,'Teejay:Changanaserry (via) Chamampathal,Karukachal','Ordinary')
+    </statement>
+	
+	
+	
+	
+
+	
+	
+	
+		
+
+    
+
+
+
+ </sql>
