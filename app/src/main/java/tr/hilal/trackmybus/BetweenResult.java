@@ -1,10 +1,7 @@
 package tr.hilal.trackmybus;
 
-import android.app.ActionBar;
 import android.app.AlertDialog;
-import android.app.ListActivity;
 import android.app.ProgressDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -12,7 +9,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -20,13 +16,9 @@ import java.sql.SQLException;
 import java.util.List;
 
 import tr.hilal.trackmybus.adapter.BetweenListAdapter;
-import tr.hilal.trackmybus.adapter.PassingbyListAdapter;
 import tr.hilal.trackmybus.db.BusDataSource;
 import tr.hilal.trackmybus.model.Schedule;
 
-/**
- * Created by TOSHIBA on 6/21/2015.
- */
 public class BetweenResult extends ActionBarActivity {
     private List<Schedule> schedules;
     String gotSource,gotDestination,gotSpinnerValue;
@@ -116,7 +108,6 @@ public class BetweenResult extends ActionBarActivity {
             schedules=result;
             if(schedules.size()>0) {
                 refreshDisplay();
-                Log.d("HILSTAG", "REFRESH DISPLAY FROM OPOST EXECUTE");
             }
             else{
                 AlertDialog.Builder noResults=new AlertDialog.Builder(BetweenResult.this);
